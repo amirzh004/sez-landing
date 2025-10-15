@@ -9,7 +9,7 @@ export default function HeroSection() {
       {/* Content */}
       <div className="relative z-10 container mx-auto px-4 text-center">
         <div className="mb-12 flex justify-center">
-          <img src="/images/logo-saryarka.jpg" alt="Saryarka Logo" className="w-32 h-32 drop-shadow-2xl" />
+          <img src="/images/logo-saryarka.png" alt="Saryarka Logo" className="w-32 h-32 drop-shadow-2xl" />
         </div>
 
         {/* Hero Text */}

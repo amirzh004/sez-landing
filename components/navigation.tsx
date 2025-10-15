@@ -12,7 +12,7 @@ export default function Navigation() {
       <div className="container mx-auto px-4">
         <div className="flex items-center justify-between h-20">
           <div className="flex items-center gap-3">
-            <img src="/images/logo-saryarka.jpg" alt="Saryarka Logo" className="w-12 h-12" />
+            <img src="/images/logo-saryarka.png" alt="Saryarka Logo" className="w-12 h-12" />
             <span className="font-bold text-lg text-primary">SARYARKA</span>
           </div>
 
