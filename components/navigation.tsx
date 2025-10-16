@@ -94,7 +94,7 @@ export default function Navigation() {
                             </div>
                         </div>
 
-                        <a href="#investors" className="text-foreground/90 hover:text-primary transition-colors">Инвесторам</a>
+                        <a href="http://localhost:5173/" className="text-foreground/90 hover:text-primary transition-colors">Инвесторам</a>
                         <a href="#news" className="text-foreground/90 hover:text-primary transition-colors">Новости</a>
                         <a href="#contacts" className="text-foreground/90 hover:text-primary transition-colors">Контакты</a>
                     </div>
